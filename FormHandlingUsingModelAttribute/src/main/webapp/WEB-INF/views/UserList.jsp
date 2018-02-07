@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<table>
+	<table border="1" align="center">
 		<tr>
 			<th>Name</th>
 			<th>Age</th>
